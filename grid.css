@@ -3,6 +3,12 @@
 #container {
 	max-width: 80%;
 	margin: 0 auto;
+	background: #0B3954
+}
+
+body {
+	background-color: #087E8B;
+	color: white;
 }
 
 * {
@@ -106,4 +112,13 @@ nav ul ul li {
 	display: list-item;
 	position: relative;
 	list-style-type: none;
+}
+
+h1 {
+	font-family: Arial;
+	text-align: center;
+}
+
+p {
+	text-align: center;
 }
